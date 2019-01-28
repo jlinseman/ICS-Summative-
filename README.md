@@ -30,7 +30,7 @@ Final Assessment Check #2
 
 * Planning: Remaining Parts to consider: Total 10% out of 15%:
 
-Planning Item | out of | Grade | Comments
+Planning Items | out of | Grade | Comments
 ------|----------|-------|--------
 Tom's Planner | 4 | |
 Daily Notes | 1 | |
@@ -42,7 +42,7 @@ Spot Check #1 | 5 | |
 
 * Grading of Code: Total 85% of summative
 
-Coding Topic | out of | Grade | Comments
+Coding Topics | out of | Grade | Comments
 -------|--------|--------|------------
 Grade 11 Concepts (IPO, selection, repetition) | 10 | |
 Searches & Sorts | 5 | | 
