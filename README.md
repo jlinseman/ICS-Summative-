@@ -49,7 +49,7 @@ Searches & Sorts | 5 | |
 File I/O & Exceptions Handling | 10 | |
 Objects (All instance/class methods) | 20 | |
 2D Arrays | 10 | 10 | 
-Invocations/Hierarchies | 15 | |
+Inheritance/Hierarchies/Invocations | 15 | |
 Recursion | 5 | |
 Error Testing (debugging - independently) | 10 |  | <ul><li>item1</li><li>item2</li></ul>
 **Total** | **85** |  |
