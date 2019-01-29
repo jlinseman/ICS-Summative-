@@ -44,7 +44,7 @@ Spot Check #1 | 5 | |
 
 Coding Topics | out of | Grade | Comments
 -------|:--------:|:--------:|------------:|
-Grade 11 Concepts (IPO, selection, repetition) | 10 | |
+Grade 11 Concepts (IPO, selection, repetition, commenting) | 10 | |
 Searches & Sorts | 5 | | 
 File I/O & Exceptions Handling | 10 | |
 Objects (All instance/class methods) | 20 | |
