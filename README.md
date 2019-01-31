@@ -34,7 +34,8 @@ Planning Items | out of | Grade | Comments
 ------|:----------:|:-------:|--------
 Tom's Planner | 4 | |
 Daily Notes | 1 | |
-Method Summary | 3 | |
+Code Management - Daily Commits to GitHub | 1 |  |
+Method Summary | 2 | |
 Summary of Skills | 2 | | 
 Spot Check #1 | 5 | | 
 **Total Planning (incl. Spot Check)** | **15** |  |
@@ -43,7 +44,7 @@ Spot Check #1 | 5 | |
 * Grading of Code: Total 85% of summative
 
 Coding Topics | out of | Grade | Comments
--------|:--------:|:--------:|------------:|
+-------|:--------:|:--------:|------------|
 Grade 11 Concepts (IPO, selection, repetition, commenting) | 10 | |
 Searches & Sorts | 5 | | 
 File I/O & Exceptions Handling | 10 | |
