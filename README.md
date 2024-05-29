@@ -21,9 +21,8 @@ Items | Complete ( :+1:) | Comments
 **Mindomo - Project Overview**  |  |
 **Mindomo - Daily Notes**  |  |
 **Mindomo - Flow Chart**  |  |
-**Tom's Planner - GANNT Chart (PROJECT TIMELINE)** |  |
 **Pseudocode** | | 
-**Total** | out of 5 | 
+**Total** | out of 4 | 
 
 Final Assessment Check #2
 ------------------------
