@@ -22,7 +22,7 @@ Items | Complete ( :+1:) | Comments
 **Mindomo - Daily Notes**  |  |
 **Mindomo - Flow Chart**  |  |
 **Pseudocode** | | 
-**Total** | out of 4 | 
+**Total** | out of 5 | 
 
 Final Assessment Check #2
 ------------------------
