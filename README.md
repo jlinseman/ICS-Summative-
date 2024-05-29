@@ -21,6 +21,7 @@ Items | Complete ( :+1:) | Comments
 **Mindomo - Project Overview**  |  |
 **Mindomo - Daily Notes**  |  |
 **Mindomo - Flow Chart**  |  |
+**Tom's Planner - GANNT Chart v3 (PROJECT TIMELINE)** |  |
 **Pseudocode** | | 
 **Total** | out of 5 | 
 
