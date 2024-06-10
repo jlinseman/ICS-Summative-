@@ -8,6 +8,7 @@ Ask for your copy of the Mindomo project plan:  **Copy the URL here: ___________
 Use Tom's Planner to start a project plan using a GANTT chart: **Copy URL here: __________________** (Not for Winter 2024)
 
 Firm Due Date for Code: June 17th, 2024
+
 Firm Due Date for Planning/Reflection Files: June 18th, 2024
 
 ------------------------
